@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Outcomes</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/summary.css">
+    <link rel="stylesheet" href="css/filters.css">
+</head>
+<body>
+    <main>
+        <form id="filters">
+            <fieldset class="years">
+                <legend>Graduation Years</legend>
+            </fieldset>
+            <fieldset class="demos">
+                <legend>Demographics</legend>
+
+            </fieldset>
+        </form>
+    
+        <section>
+            <h2>Summary</h2>
+            <div class="summary">
+                <div class="stat-card">
+                    <h4>Total</h4>
+                    <p id="count"></p>
+                    <p class="sub" id="count-sub"></p>
+                </div>
+                <div class="stat-card">
+                    <h4>Graduated</h4>
+                    <p id="graduated"></p>
+                    <p class="sub" id="graduated-sub"></p>
+                </div>
+            </div>
+            <div class="summary">
+                <div class="stat-card">
+                    <h4>Employed FT In-Field</h4>
+                    <p id="employed"></p>
+                    <p class="sub" id="employed-sub"></p>
+                </div>
+                <div class="stat-card">
+                    <h4>Employed PT In-Field</h4>
+                    <p id="interim"></p>
+                    <p class="sub" id="interim-sub"></p>
+                </div>
+                <div class="stat-card">
+                    <h4>Seeking/Out-of-Field</h4>
+                    <p id="seeking"></p>
+                    <p class="sub" id="seeking-sub"></p>
+                </div>
+            </div>
+            <h3>Employed FT In-Field</h3>
+            <div class="summary">
+                <div class="stat-card">
+                    <h4>Average</h4>
+                    <p id="mean"></p>
+                    <p class="sub" id="mean-sub"></p>
+                </div>
+                <div class="stat-card">
+                    <h4>Median</h4>
+                    <p id="median"></p>
+                    <p class="sub" id="median-sub"></p>
+                </div>
+                <div class="stat-card">
+                    <h4>Months</h4>
+                    <p id="months"></p>
+                    <p class="sub" id="months-sub"></p>
+                </div>
+            </div>
+        </section>
+    </main>
+    <script type="module" src="js/index.js"></script>
+</body>
+</html>

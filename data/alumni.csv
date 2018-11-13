@@ -1,0 +1,117 @@
+women,otherMinority,LBGTQ,africanAmerican,veteran,latinx,chip,gradYear,isGrad,isEmployed,interimWork,interimWorkType,annualizedSalary,positionType,searchWeeks
+,,,,,,TRUE,2015,Yes,Yes,,,72000.00,Software Developer,6
+,,,,,,TRUE,2015,Yes,Yes,,,,,10
+,,,,,,TRUE,2015,Yes,Yes,,,,Software Developer,10
+X,,,,,,FALSE,2015,Yes,Yes,,,60000.00,Software Developer,9
+,,,,,,TRUE,2015,Yes,Yes,,,67000.00,Software Developer,28
+,,,,,,TRUE,2015,Yes,Yes,Yes,C,70000.00,Software Developer,82
+,X,,,,X,FALSE,2015,Yes,Yes,,,74000.00,Software Developer,3
+,,,,,,TRUE,2015,Yes,Yes,,,50000.00,Software Developer,14
+X,,,,,,FALSE,2015,Yes,Yes,,,124800.00,Software Developer,2
+,,,,,,TRUE,2015,Yes,Yes,,,50000.00,Software Developer,5
+X,,,,,,FALSE,2015,Yes,Yes,,,50000.00,Web Developer,11
+,,,,,,TRUE,2016,Yes,Yes,Yes,T,62400.00,Web Developer,9
+X,,,,,,FALSE,2016,Yes,Yes,,,75000.00,Software Developer,6
+,,,,,,TRUE,2016,Yes,Yes,,,58000.00,Software Developer,12
+,,,,,,TRUE,2016,Yes,Out,Yes,C,,,68
+X,,,,,,FALSE,2016,Yes,Yes,,,65000.00,Software Developer,9
+,,,,,,TRUE,2016,No,Yes,,,,,
+X,,X,,,,FALSE,2016,Yes,Yes,,,75920.00,Software Developer,-5
+,,,,,,TRUE,2016,Yes,Yes,Yes,T,65000.00,Software Developer,33
+,,,,,,TRUE,2016,Yes,Yes,,,50000.00,Teaching,9
+,,,,,,TRUE,2016,Yes,Yes,,,70000.00,Software Developer,3
+,X,,,,,FALSE,2016,Yes,Yes,Yes,T,66000.00,Software Developer,73
+X,,,,,,FALSE,2016,Yes,Yes,,,75000.00,Software Developer,12
+,,,,,,TRUE,2016,Yes,Yes,Yes,T,60000.00,Software Developer,18
+X,,X,,,,FALSE,2016,Yes,Yes,Yes,T,50000.00,Software Developer,30
+X,,X,,,,FALSE,2016,Yes,Yes,,,67000.00,Software Developer,13
+,,,,,,TRUE,2016,Yes,Yes,Yes,T,70000.00,Software Developer,37
+X,,,,,,FALSE,2016,Yes,Yes,,,79000.00,Software Developer,6
+,X,,,,,FALSE,2017,No,No,,,,,96
+X,,,,,,FALSE,2017,No,Yes,,,,,96
+,,,,,,TRUE,2017,No,No,,,,,96
+,,,,,,TRUE,2017,Yes,Yes,,,78000.00,Software Developer,14
+,,,,,,TRUE,2017,Yes,Yes,,,80000.00,Software Developer,2
+,,,,,,TRUE,2017,Yes,Yes,Yes,T,78000.00,Software Developer,39
+,,,,,,TRUE,2017,Yes,No,Yes,C,,Web Developer,29
+X,,,,,,FALSE,2017,Yes,Yes,,,70000.00,Software Developer,6
+X,,,,,,FALSE,2017,Yes,Yes,,,75000.00,Software Developer,15
+,,,,,,TRUE,2017,Yes,No,Yes,A,,,96
+,,X,,,,FALSE,2017,Yes,No,Yes,T,,,96
+,,,,,,TRUE,2017,Yes,Yes,,,95000.00,Software Developer,10
+,,,,,,TRUE,2017,Yes,Yes,,,55000.00,Software Developer,14
+X,,,,,,FALSE,2017,Yes,No,,,,,96
+,,,,,,TRUE,2017,Yes,Yes,,,,Web Developer,51
+,,,,,,TRUE,2017,Yes,Yes,,,55000.00,Software Developer,14
+,,,,,,TRUE,2017,Yes,Yes,Yes,C,,Tech Adjacent,53
+,,,,,,TRUE,2017,Yes,Yes,Yes,T,100000.00,Software Developer,18
+X,,X,,,,FALSE,2017,Yes,Yes,,,65000.00,Software Developer,7
+,,,,,,TRUE,2017,Yes,Yes,,,72000.00,Software Developer,29
+,,,X,,,FALSE,2017,Yes,No,Yes,T,,,96
+,,,,,,TRUE,2017,Yes,Yes,Yes,T,85000.00,Tech Adjacent,21
+,,,,,,TRUE,2017,Yes,No,,,,,96
+,X,,,,X,FALSE,2017,Yes,Yes,Yes,A,50400.00,Software Developer,47
+X,,,,,,FALSE,2017,Yes,Yes,,,,Software Developer,30
+X,,X,,,,FALSE,2017,Yes,Yes,,,50000.00,Web Developer,36
+,,,,,,TRUE,2017,Yes,Yes,Yes,T,39000.00,Web Developer,32
+X,,,,,,FALSE,2017,Yes,No,,,,,84
+X,,,,,,FALSE,2017,Yes,No,,,,,84
+X,,,,,,FALSE,2017,Yes,No,,,,,84
+,,,,,,TRUE,2017,Yes,Yes,,,68000.00,Tech Adjacent,22
+,,,,,,TRUE,2017,Yes,Yes,,,76000.00,Software Developer,9
+X,,,,,,FALSE,2017,Yes,Yes,,,87000.00,Tech Adjacent,9
+X,,,,,,FALSE,2017,Yes,Yes,Yes,P,72000.00,Software Developer,16
+X,,,,,,FALSE,2017,Yes,No,Yes,T,,,73
+,,,,,,TRUE,2017,Yes,No,Yes,C,,,73
+,,,,,,TRUE,2017,Yes,Yes,Yes,CA,114000.00,Software Developer,55
+,,,,,,TRUE,2017,Yes,No,Yes,TA,,,59
+,,,,,,TRUE,2017,Yes,Yes,Yes,C,55000.00,Teaching,59
+,,,,,,TRUE,2017,Yes,Yes,,,38000.00,Web Developer,44
+X,,,,,,FALSE,2017,Yes,Yes,Yes,TA,65000.00,Software Developer,24
+X,,,,,X,FALSE,2017,Yes,Out,Yes,T,,,20
+,,,,,,TRUE,2017,Yes,Yes,Yes,CA,115000.00,Software Developer,18
+,,,,,,TRUE,2017,Yes,Yes,Yes,,130000.00,Tech Adjacent,24
+X,,,,,,FALSE,2017,Yes,Yes,Yes,P,70000.00,Software Developer,3
+X,,,,,,FALSE,2017,Yes,Yes,Yes,T,80000.00,Software Developer,10
+X,,,,,,FALSE,2017,Yes,Yes,,,170000.00,Software Developer,11
+,,,,,,TRUE,2017,No,No,,,,,59
+,,,,,,TRUE,2017,Yes,Yes,Yes,TA,63400.00,DevOps,42
+,,,,,,TRUE,2017,Yes,No,,,,,47
+,,,,,,TRUE,2017,Yes,Yes,Yes,T,80000.00,Software Developer,34
+X,,,,,,FALSE,2017,Yes,Yes,,,76000.00,Tech Adjacent,17
+,,,,,,TRUE,2017,Yes,No,Yes,A,,,47
+X,,,,,,FALSE,2017,Yes,Yes,Yes,T,52000.00,Tech Adjacent,34
+,,,,,,TRUE,2017,Yes,Yes,Yes,A,70000.00,Software Developer,25
+,X,,X,,,FALSE,2017,Yes,Yes,,,75000.00,Software Developer,12
+,,,,,,TRUE,2017,No,No,,,,,47
+,,,,,,TRUE,2017,Yes,Yes,,,60000.00,Jr Developer,20
+X,,,,,,FALSE,2018,Yes,Yes,Yes,T,70000.00,Software Developer,22
+,,,,,,TRUE,2018,No,No,,,,,32
+X,,,,,,FALSE,2018,Yes,Yes,Yes,A,80000.00,Software Developer,13
+,X,,,,,FALSE,2018,Yes,Yes,Yes,C,82000.00,Software Developer,30
+X,,,,,,FALSE,2018,Yes,No,,,,,32
+X,,X,,,,FALSE,2018,Yes,Yes,Yes,T,70000.00,Software Developer,6
+,,,,,,TRUE,2018,Yes,No,,,,,26
+,,,,,,TRUE,2018,No,No,,,,,26
+,,,,,,TRUE,2018,Yes,Out,,,,,7
+,X,,,,X,FALSE,2018,Yes,No,Yes,T,,,18
+X,,X,,,,FALSE,2018,Yes,Yes,Yes,A,50000.00,,18
+X,,,,,,FALSE,2018,Yes,Yes,Yes,A,160000.00,Software Developer,1
+,,,,,,TRUE,2018,Yes,No,Yes,T,,,18
+,,,,,,TRUE,2018,Yes,No,,,,,18
+X,,X,,,,FALSE,2018,Yes,No,Yes,T,,,18
+X,,X,,,X,FALSE,2018,Yes,Yes,Yes,A,38000.00,Software Developer,8
+,,,,,,TRUE,2018,Yes,No,Yes,A,,,18
+,,,,,X,FALSE,2018,No,No,,,,,
+,,,,,,TRUE,2018,Yes,No,Yes,A,,,6
+,,,,,X,FALSE,2018,Yes,No,,,,,6
+,,,,,,TRUE,2018,Yes,No,Yes,T,,,6
+,,,,,,TRUE,2018,Yes,No,,,,,6
+,,,,,,TRUE,2018,Yes,Yes,,,75000.00,,6
+,,,,,,TRUE,2018,Yes,Yes,,,70000.00,,5
+X,,X,,,,FALSE,2018,Yes,No,Yes,T,,,6
+X,,,,,,FALSE,2018,No,No,,,,,
+X,,,,,,FALSE,2018,No,No,,,,,
+X,,,,,,FALSE,2018,Yes,No,Yes,T,,,6
+,,,,,,TRUE,2018,Yes,No,,,,,6
+,,,,,,TRUE,2018,Yes,No,Yes,T,,,6
